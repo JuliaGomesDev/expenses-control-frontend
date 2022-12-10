@@ -1,0 +1,36 @@
+main {
+  height: 100%;
+}
+
+form {
+  width: 300px;
+}
+
+select option:hover {
+  background-color: #011627;
+}
+
+.wrapped {
+  display: flex;
+  justify-content: center;
+}
+
+.cancel {
+  background: transparent;
+  border: 1px solid red;
+  box-shadow: 1px 1px 3px rgb(0, 0, 0, 0.5);
+  margin-top: 15px;
+
+  color: red;
+
+  transition: background-color 10s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+
+.cancel:hover {
+  transform: scale(1.02);
+  background-color: #ef233c;
+  color: #f1faee;
+
+  font-weight: 500;
+}

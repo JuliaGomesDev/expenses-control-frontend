@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+}
+
+form {
+  width: 300px;
+}
+
+button {
+  margin-bottom: 10px;
+}
