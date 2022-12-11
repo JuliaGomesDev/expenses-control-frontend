@@ -1,5 +1,5 @@
 ## Projeto disciplinar
 
-Protejo desenvolvidos para conclução de disciplinas na Fatec Franca.
+Protejo desenvolvido para conclução de disciplinas na Fatec Franca.
 
-(OBS: não foram aplicados padrões de projetos, ou arquitetura avançadas, sendo este repositório meramente de estudos)
+(OBS: não foram aplicados padrões de projetos, ou arquiteturas avançadas, sendo este repositório meramente de estudos)
